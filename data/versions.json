@@ -1,0 +1,4172 @@
+[
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.11"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.12"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.15"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.17"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.18"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.19"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.2"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.20"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "version": "3.0.8"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.001.30002"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30514"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30524"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30539"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.3063"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30636"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30655"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30680"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30730"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "20.005.30748"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "24.002.20759"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "24.002.20857"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "version": "24.002.20933"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.19.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.20.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.20.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.21.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.22.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.23.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.24.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.24.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.25.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.25.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.26.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.26.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.26.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.27.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.28.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.29.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.29.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.29.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.30.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.30.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.30.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.31.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.31.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.32.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.33.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.33.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.34.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.34.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.35.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.35.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.35.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.35.3"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.36.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.36.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.37.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.37.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.37.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.37.3"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.38.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.38.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.39.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.39.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.39.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.40.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.40.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.41.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.41.0.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.42.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.42.0.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.43.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.44.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.45.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.45.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.45.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.46.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.46.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.46.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.47.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.47.0.2"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.47.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "version": "2.47.1.2"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "version": "24.01"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "version": "24.05"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "version": "24.06"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "version": "24.07"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "version": "24.08"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "version": "24.09"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.1.0.23997"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.2.0.25138"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.2.1.25153"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.2.2.25170"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.2.3.25184"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.3.0.26795"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "version": "2024.4.0.27683"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "15.007.20033"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "15.023.20070"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "17.009.20044"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "17.012.20098"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "18.009.20044"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "18.011.20063"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "19.008.20071"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "19.021.20061"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.006.20042"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.009.20063"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.009.20065"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.009.20067"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.009.20074"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.012.20041"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.012.20043"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.012.20048"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "20.013.20064"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.001.20135"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.001.20155"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.005.20048"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.005.20058"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.007.20091"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.007.20099"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "21.011.20039"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.001.20085"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.001.20117"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.001.20142"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.001.20169"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.002.20191"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.002.20212"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.003.20258"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "22.003.20310"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.001.2006"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.001.20143"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.003.20201"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.003.20269"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.006.20320"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.006.20380"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.008.20421"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.008.20470"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.008.20533"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "23.008.20555"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.001.20604"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.001.20615"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.001.20629"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.001.20643"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20687"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20736"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20759"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20854"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20857"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20895"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20933"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.2096"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20965"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.20991"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.002.21005"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.003.20054"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.003.20112"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.003.20180"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.004.20220"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.004.20243"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.004.20272"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.005.20307"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "version": "24.005.20320"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome Enterprise",
+    "version": "132.0.6834.111"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome Enterprise",
+    "version": "132.0.6834.84"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1010.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1020.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.11.6"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1110.14"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1120.15"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1210.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1310.11"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1410.15"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1440.1"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1510.12"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1610.12"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1710.11"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1810.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.1910.12"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.20.24"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.20.26"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2010.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2110.12"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2210.11"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2310.11"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2410.7"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.25.18"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2510.8"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2610.12"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2710.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2810.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.2910.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3010.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.31.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3110.11"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3210.7"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3310.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3330.2"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3410.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3510.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3610.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3710.11"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3810.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.3910.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.40.25"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.40.26"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.4010.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.4110.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.4210.9"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.4310.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.4410.7"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.45.14"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.45.15"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.5.13"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.51.16"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.600.27"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.650.17"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.660.18"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.710.15"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.730.2"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.770.3"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.910.14"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "version": "8.0.910.15"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.1.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.2.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.3.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.3.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.4.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.5.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.5.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.5.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "version": "128.6.0"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.0.3"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.1.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.2.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.3.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.4.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.5.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.6.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.2.7.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.8.0.3"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.8.1.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.8.2.1"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.8.3.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "24.8.4.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "7.6.3.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "7.6.4.1"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "7.6.5.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "7.6.6.3"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "version": "7.6.7.2"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.0"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.10"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.11"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.12"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.14"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.16"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.17"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.18"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.2"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.20"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.21"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.22"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.23"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.27"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.4"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.5"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.6"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.7"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "10.0.8"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.100"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.103"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.104"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.105"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.106"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.107"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.108"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.109"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.40"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.41"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.42"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.52"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.53"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.54"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.55"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.56"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.59"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.61"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.62"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.63"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.64"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.65"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.67"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.68"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.69"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.70"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.72"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.73"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.75"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.76"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.77"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.78"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.79"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.81"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.82"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.84"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.85"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.86"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.88"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.90"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.91"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.92"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.93"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.94"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.96"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "7.0.99"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.100"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.11"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.12"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.13"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.14"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.15"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.16"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.20"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.23"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.24"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.27"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.28"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.29"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.30"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.31"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.32"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.33"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.34"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.35"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.37"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.38"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.39"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.4"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.40"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.41"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.42"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.43"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.45"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.46"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.47"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.49"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.5"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.50"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.51"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.53"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.54"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.55"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.56"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.57"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.58"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.59"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.60"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.61"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.63"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.64"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.65"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.66"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.68"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.69"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.70"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.71"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.72"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.73"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.75"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.76"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.77"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.78"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.79"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.8"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.81"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.82"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.83"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.84"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.85"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.86"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.87"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.88"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.89"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.9"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.90"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.91"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.92"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.93"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.94"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.95"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.96"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.97"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.98"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "8.5.99"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.0"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.1"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.10"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.11"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.12"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.13"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.14"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.16"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.17"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.19"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.2"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.20"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.21"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.22"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.24"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.26"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.27"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.29"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.30"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.31"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.33"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.34"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.35"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.36"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.37"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.38"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.39"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.4"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.40"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.41"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.43"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.44"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.45"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.46"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.48"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.5"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.50"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.52"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.53"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.54"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.55"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.56"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.58"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.59"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.6"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.60"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.62"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.63"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.64"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.65"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.67"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.68"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.69"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.7"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.70"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.71"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.72"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.73"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.74"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.75"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.76"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.78"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.79"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.8"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.80"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.81"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.82"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.83"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.84"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.85"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.86"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.87"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.88"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.89"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.90"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.91"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.93"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.94"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.95"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.96"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.97"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "version": "9.0.98"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.0"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.12"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.14"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.16"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.18"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.2"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.20"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.4"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.6"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.0.8"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.1.0"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.1.2"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "version": "7.1.4"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.65"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.66"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.7"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.71"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.72"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.73"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.75"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "version": "9.76"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome",
+    "version": "132.0.6834.111"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome",
+    "version": "132.0.6834.84"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.1.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.10.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.11.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.12.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.13.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.14.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.15.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.16.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.17.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.18.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.19.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.2.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.20.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.21.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.22.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.3.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.4.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.5.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.6.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.7.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.8.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "12.9.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.1.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.10.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.11.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.12.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.13.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.14.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.15.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.16.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.17.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.18.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.2.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.3.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.4.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.5.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.6.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.7.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.8.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "13.9.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.1.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.10.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.11.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.12.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.13.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.14.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.15.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.2.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.3.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.4.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.5.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.6.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.7.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.8.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "14.9.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.0.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.1.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.10.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.2.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.3.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.4.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.5.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.6.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.7.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.8.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "15.9.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "17.0.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "17.1.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "version": "17.2.1"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.1.0.23997"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.2.0.25138"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.2.1.25153"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.2.2.25170"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.2.3.25184"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.3.0.26795"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "version": "2024.4.0.27683"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.10.10"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.10.11"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.10.12"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.10.7"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.10.8"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.10.9"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.11.0"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.12.0"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.13.0"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.1"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.10"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.12"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.13"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.14"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.4"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.5"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.6"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.7"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.8"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "version": "2.14.9"
+  },
+  {
+    "vendor": "Simon Tatham",
+    "product": "PuTTY",
+    "version": "0.81"
+  },
+  {
+    "vendor": "Simon Tatham",
+    "product": "PuTTY",
+    "version": "0.82"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.0"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.1"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.10"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.11"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.12"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.14"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.15"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.16"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.17.4"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.18"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.19"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.2"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.20"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.21"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.3"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.4"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.6"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.7"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.7.1"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "version": "3.0.8"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.27"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.28"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.29"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.30"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.31"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.32"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.33"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.34"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.35"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.36"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.37"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.38"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.39"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.40"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.40.1"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.41"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "1.42"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.25"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.27"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.28"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.29"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.30"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.31"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.32"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.33"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.34"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.35"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.36"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.37"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.38"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.39"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.39.1"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.40"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.41"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.42.1"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.43"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.44"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.45"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.46"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.47"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.48.1"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.49"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.50"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.51.1"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.52"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.53"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.53.1"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.54"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.55"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.56"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.57"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "version": "2.57.1"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "version": "24.01"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "version": "24.05"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "version": "24.06"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "version": "24.07"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "version": "24.08"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "version": "24.09"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.0.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.1.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.1.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.10.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.10.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.10.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.11.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.11.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.12.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.12.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.12.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.13.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.14.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.15.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.16.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.16.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.16.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.16.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.18.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.2.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.2.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.2.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.2.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.3.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.3.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.3.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.3.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.4.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.4.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.4.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.5.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.5.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.5.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.6.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.6.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.7.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.8.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.8.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "115.9.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.0.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.1.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.1.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.2.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.2.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.2.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.2.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.3.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.3.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.3.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.3.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.4.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.4.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.4.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.4.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.4.4"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.5.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.5.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.5.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "128.6.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "version": "133.0"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.0.1.26"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.1.0.71"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.1.1.4"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.1.2.27"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.1.3.6"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.0.7"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.1.4"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.10.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.11.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.2.3"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.3.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.4.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.5.12"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.6.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.7.3"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.8.5"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.10.9.3"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.11.0.26"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.11.3.17"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.11.4.15"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.0.6"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.1.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.10.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.2.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.3.5"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.4.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.5.8"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.6.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.7.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.8.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.12.9.4"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.13.0.9"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.13.1.3"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.13.2.3"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.13.3.2"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.13.4.4"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.2.0.145"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.2.1.16"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.2.2.25"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.3.0.44"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.3.1.23"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.3.2.35"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.3.3.17"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.4.0.119"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.4.1.6"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.4.2.4"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.4.3.1"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.5.1.21"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.5.2.36"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.5.3.16"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.5.3.17"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.5.4.42"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.5.5.5"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.6.0.100"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.6.0.95"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.6.1.25"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.6.2.20"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.0.166"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.1.14"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.2.58"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.2.60"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.3.46"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.4.76"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.4.80"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.7.5.9"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.8.0.150"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.0.167"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.1.4"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.2.6"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.3.3"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.4.102"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.5.7"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "version": "12.9.6.3"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.1"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.10"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.11"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.12"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.13"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.14"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.15"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.16"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.17"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.18"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.2"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.20"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.23"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.24"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.3"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.5"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.6"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.7"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.8"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "3.6.9"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "4.4.0"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "4.4.1"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "4.4.2"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "version": "4.4.3"
+  }
+]

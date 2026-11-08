@@ -1,0 +1,1217 @@
+[
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA52239",
+    "description": "RCE vulnerability in PostgreSQL",
+    "publish_date": "2023-08-10",
+    "start_vuln_version": "15",
+    "fixed_version": "15.4.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA67450",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-05-15",
+    "start_vuln_version": "0",
+    "fixed_version": "115.11.0"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "KLA_id": "KLA67582",
+    "description": "RCE vulnerability in LibreOffice",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "7.6.7"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA19262",
+    "description": "XSS vulnerability in Apache Tomcat",
+    "publish_date": "2022-07-26",
+    "start_vuln_version": "10",
+    "fixed_version": "10.0.23"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "KLA_id": "KLA73911",
+    "description": "ACE vulnerability in Mozilla Firefox ESR",
+    "publish_date": "2024-10-09",
+    "start_vuln_version": "0",
+    "fixed_version": "128.3.1"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "KLA_id": "KLA74565",
+    "description": "PE vulnerability in Foxit Reader",
+    "publish_date": "2024-09-26",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.3.0.26795"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA74035",
+    "description": "Multiple vulnerabilities in Oracle Java",
+    "publish_date": "2024-10-15",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.4310.10"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA62192",
+    "description": "ACE vulnerability in Apache Tomcat",
+    "publish_date": "2023-11-13",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.96"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA48970",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2023-04-18",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3710.11"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome Enterprise",
+    "KLA_id": "KLA78988",
+    "description": "Multiple vulnerabilities in Google Chrome",
+    "publish_date": "2025-01-14",
+    "start_vuln_version": "0",
+    "fixed_version": "132.0.6834.83"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "KLA_id": "KLA77554",
+    "description": "Multiple vulnerabilities in Mozilla Firefox ESR",
+    "publish_date": "2024-11-26",
+    "start_vuln_version": "0",
+    "fixed_version": "128.5.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA20236",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2023-02-14",
+    "start_vuln_version": "2",
+    "fixed_version": "2.39.2"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA61443",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2023-10-17",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3910.13"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "KLA_id": "KLA66493",
+    "description": "Multiple vulnerabilities in Adobe Acrobat and Adobe Acrobat Reader",
+    "publish_date": "2024-02-13",
+    "start_vuln_version": "0",
+    "fixed_version": "23.008.20533"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip",
+    "KLA_id": "KLA77436",
+    "description": "RCE vulnerability in 7-Zip",
+    "publish_date": "2024-10-25",
+    "start_vuln_version": "0",
+    "fixed_version": "24.07"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA50475",
+    "description": "OSI vulnerability in Apache Tomcat",
+    "publish_date": "2023-05-10",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.75"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA11495",
+    "description": "DOS vulnerability in Apache Tomcat",
+    "publish_date": "2019-02-08",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.15"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "KLA_id": "KLA68205",
+    "description": "PE vulnerability in Foxit Reader",
+    "publish_date": "2024-05-24",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.2.2.25170"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12427",
+    "description": "DoS vulnerability in Oracle Java and GraalVM",
+    "publish_date": "2022-01-18",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3210.7"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA77550",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-11-26",
+    "start_vuln_version": "0",
+    "fixed_version": "133.0"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "KLA_id": "KLA20110",
+    "description": "Multiple vulnerabilities in Wireshark",
+    "publish_date": "2022-10-26",
+    "start_vuln_version": "3",
+    "fixed_version": "3.6.9"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA77143",
+    "description": "Multiple vulnerabilities in PostgreSQL",
+    "publish_date": "2024-11-14",
+    "start_vuln_version": "0",
+    "fixed_version": "12.21.1"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA20032",
+    "description": "SB vulnerability in Apache Tomcat",
+    "publish_date": "2022-10-07",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.68"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "KLA_id": "KLA73803",
+    "description": "Multiple vulnerabilities in Mozilla Firefox ESR",
+    "publish_date": "2024-10-01",
+    "start_vuln_version": "0",
+    "fixed_version": "128.3.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "KLA_id": "KLA74633",
+    "description": "Multiple vulnerabilities in Mozilla Firefox ESR",
+    "publish_date": "2024-10-29",
+    "start_vuln_version": "0",
+    "fixed_version": "128.4.0"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "KLA_id": "KLA67582",
+    "description": "RCE vulnerability in LibreOffice",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "24.2.3.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA73989",
+    "description": "ACE vulnerability in Mozilla Thunderbird",
+    "publish_date": "2024-10-10",
+    "start_vuln_version": "0",
+    "fixed_version": "115.16.0"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA77343",
+    "description": "SB vulnerabilities in Apache Tomcat",
+    "publish_date": "2024-10-09",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.96"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA20184",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2022-10-18",
+    "start_vuln_version": "2",
+    "fixed_version": "2.38.1"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12516",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2022-04-19",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3310.9"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.41.1"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA65144",
+    "description": "Multiple vulnerabilities in Apache Tomcat",
+    "publish_date": "2024-02-19",
+    "start_vuln_version": "0",
+    "fixed_version": "8.5.99"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "KLA_id": "KLA66484",
+    "description": "Multiple vulnerabilities in Foxit Reader",
+    "publish_date": "2024-04-28",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.1.0.23997"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA19260",
+    "description": "XSS vulnerability in Apache Tomcat",
+    "publish_date": "2022-08-28",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.82"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA12559",
+    "description": "DoS vulnerability in Apache Tomcat",
+    "publish_date": "2022-05-23",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.79"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA20166",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2023-01-17",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3610.9"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.42.2"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "KLA_id": "KLA69718",
+    "description": "SB vulnerability in LibreOffice",
+    "publish_date": "2024-06-25",
+    "start_vuln_version": "0",
+    "fixed_version": "24.2.4.2"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA20013",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2022-10-18",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3510.10"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA20182",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2023-01-17",
+    "start_vuln_version": "2",
+    "fixed_version": "2.39.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA71453",
+    "description": "ACE vulnerability in PostgreSQL",
+    "publish_date": "2024-08-08",
+    "start_vuln_version": "0",
+    "fixed_version": "14.13.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA71453",
+    "description": "ACE vulnerability in PostgreSQL",
+    "publish_date": "2024-08-08",
+    "start_vuln_version": "0",
+    "fixed_version": "13.16.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA60814",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2023-09-26",
+    "start_vuln_version": "115",
+    "fixed_version": "115.3.0"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "KLA_id": "KLA12523",
+    "description": "Security vulnerability in Pidgin",
+    "publish_date": "2022-04-28",
+    "start_vuln_version": "2",
+    "fixed_version": "2.14.9"
+  },
+  {
+    "vendor": "Simon Tatham",
+    "product": "PuTTY",
+    "KLA_id": "KLA65599",
+    "description": "OSI vulnerability in PuTTY",
+    "publish_date": "2024-04-15",
+    "start_vuln_version": "0",
+    "fixed_version": "0.81"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA12560",
+    "description": "DoS vulnerability in Apache Tomcat",
+    "publish_date": "2022-02-28",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.76"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA67224",
+    "description": "Security vulnerability in PostgreSQL",
+    "publish_date": "2024-05-09",
+    "start_vuln_version": "0",
+    "fixed_version": "15.7.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA77116",
+    "description": "OSI vulnerability in Mozilla Thunderbird",
+    "publish_date": "2024-11-12",
+    "start_vuln_version": "128",
+    "fixed_version": "128.4.3"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "KLA_id": "KLA64774",
+    "description": "Multiple vulnerabilities in Foxit PDF Reader",
+    "publish_date": "2024-03-05",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.1.0.23997"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "KLA_id": "KLA67226",
+    "description": "ACE vulnerability in Apple iTunes",
+    "publish_date": "2024-05-08",
+    "start_vuln_version": "0",
+    "fixed_version": "12.13.2.3"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA70479",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-07-15",
+    "start_vuln_version": "0",
+    "fixed_version": "115.13.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA61570",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2023-10-24",
+    "start_vuln_version": "115",
+    "fixed_version": "115.4.1"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player",
+    "KLA_id": "KLA66427",
+    "description": "ACE vulnerability in VLC media player",
+    "publish_date": "2023-11-03",
+    "start_vuln_version": "0",
+    "fixed_version": "3.0.19"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA51006",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2023-07-18",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3810.9"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA20034",
+    "description": "SB vulnerability in Apache Tomcat",
+    "publish_date": "2022-10-10",
+    "start_vuln_version": "10",
+    "fixed_version": "10.0.27"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA20148",
+    "description": "ACE vulnerability in Apache Tomcat",
+    "publish_date": "2022-11-21",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.84"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA67224",
+    "description": "Security vulnerability in PostgreSQL",
+    "publish_date": "2024-05-09",
+    "start_vuln_version": "0",
+    "fixed_version": "14.12.1"
+  },
+  {
+    "vendor": "EZB Systems",
+    "product": "UltraISO",
+    "KLA_id": "KLA11360",
+    "description": "ACE vulnerability in UltraISO",
+    "publish_date": "2018-04-25",
+    "start_vuln_version": "9",
+    "fixed_version": "9.7"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12159",
+    "description": "Multiple vulnerabilities in Oracle Java SE",
+    "publish_date": "2021-04-20",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.2910.10"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA65144",
+    "description": "Multiple vulnerabilities in Apache Tomcat",
+    "publish_date": "2024-02-19",
+    "start_vuln_version": "0",
+    "fixed_version": "9.0.86"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA73183",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-09-03",
+    "start_vuln_version": "0",
+    "fixed_version": "115.15.0"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "KLA_id": "KLA67474",
+    "description": "Multiple vulnerabilities in Adobe Acrobat and Adobe Acrobat Reader",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "20.005.30636"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA73989",
+    "description": "ACE vulnerability in Mozilla Thunderbird",
+    "publish_date": "2024-10-10",
+    "start_vuln_version": "0",
+    "fixed_version": "128.3.1"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA68933",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-06-13",
+    "start_vuln_version": "0",
+    "fixed_version": "115.12.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA71400",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-08-06",
+    "start_vuln_version": "0",
+    "fixed_version": "115.14.0"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA61042",
+    "description": "DoS vulnerability in Mozilla Thunderbird",
+    "publish_date": "2023-09-28",
+    "start_vuln_version": "115",
+    "fixed_version": "115.3.1"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA77143",
+    "description": "Multiple vulnerabilities in PostgreSQL",
+    "publish_date": "2024-11-14",
+    "start_vuln_version": "0",
+    "fixed_version": "15.9.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA49048",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2023-04-25",
+    "start_vuln_version": "2",
+    "fixed_version": "2.40.1"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "KLA_id": "KLA78282",
+    "description": "Multiple vulnerabilities in Foxit Reader",
+    "publish_date": "2024-12-17",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.4.0.27683"
+  },
+  {
+    "vendor": "Dominik Reichl",
+    "product": "KeePass Password Safe",
+    "KLA_id": "KLA11362",
+    "description": "ACE vulnerability in KeePass",
+    "publish_date": "2017-01-23",
+    "start_vuln_version": "2",
+    "fixed_version": "2.34"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Firefox ESR",
+    "KLA_id": "KLA73124",
+    "description": "Multiple vulnerabilities in Mozilla Firefox ESR",
+    "publish_date": "2024-09-03",
+    "start_vuln_version": "0",
+    "fixed_version": "128.2.0"
+  },
+  {
+    "vendor": "The Pidgin developer community",
+    "product": "Pidgin",
+    "KLA_id": "KLA11359",
+    "description": "ACE vulnerability in Pidgin",
+    "publish_date": "2017-03-09",
+    "start_vuln_version": "2",
+    "fixed_version": "2.12.0"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA40220",
+    "description": "DoS vulnerability in Apache Tomcat",
+    "publish_date": "2023-01-19",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.85"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader 2020",
+    "KLA_id": "KLA66493",
+    "description": "Multiple vulnerabilities in Adobe Acrobat and Adobe Acrobat Reader",
+    "publish_date": "2024-02-13",
+    "start_vuln_version": "0",
+    "fixed_version": "20.005.30574"
+  },
+  {
+    "vendor": "7-Zip Developers",
+    "product": "7-Zip (MSI installer)",
+    "KLA_id": "KLA77436",
+    "description": "RCE vulnerability in 7-Zip",
+    "publish_date": "2024-10-25",
+    "start_vuln_version": "0",
+    "fixed_version": "24.07"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "KLA_id": "KLA73578",
+    "description": "Multiple vulnerabilities in Foxit Reader",
+    "publish_date": "2024-09-26",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.2.3.25184"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA73182",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-09-03",
+    "start_vuln_version": "128",
+    "fixed_version": "128.2.0"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA71453",
+    "description": "ACE vulnerability in PostgreSQL",
+    "publish_date": "2024-08-08",
+    "start_vuln_version": "0",
+    "fixed_version": "12.20.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.43.4"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "KLA_id": "KLA66484",
+    "description": "Multiple vulnerabilities in Foxit Reader",
+    "publish_date": "2024-04-28",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.1.0.23997"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12331",
+    "description": "Multiple vulnerabilities in Oracle Java SE",
+    "publish_date": "2021-09-28",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3110.11"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "KLA_id": "KLA64774",
+    "description": "Multiple vulnerabilities in Foxit PDF Reader",
+    "publish_date": "2024-03-05",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.1.0.23997"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA65636",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2024-04-16",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.4110.9"
+  },
+  {
+    "vendor": "VideoLAN",
+    "product": "VLC media player (MSI installer)",
+    "KLA_id": "KLA66427",
+    "description": "ACE vulnerability in VLC media player",
+    "publish_date": "2023-11-03",
+    "start_vuln_version": "0",
+    "fixed_version": "3.0.19"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA73806",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-10-01",
+    "start_vuln_version": "128",
+    "fixed_version": "128.3"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12588",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2022-07-19",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3410.10"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA12325",
+    "description": "SB vulnerability in Apache Tomcat",
+    "publish_date": "2021-04-26",
+    "start_vuln_version": "7",
+    "fixed_version": "7.0.109"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA77143",
+    "description": "Multiple vulnerabilities in PostgreSQL",
+    "publish_date": "2024-11-14",
+    "start_vuln_version": "0",
+    "fixed_version": "14.14.1"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "KLA_id": "KLA74565",
+    "description": "PE vulnerability in Foxit Reader",
+    "publish_date": "2024-09-26",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.3.0.26795"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA12322",
+    "description": "DoS vulnerability in Apache Tomcat",
+    "publish_date": "2021-10-06",
+    "start_vuln_version": "8",
+    "fixed_version": "8.5.72"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA65693",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-04-16",
+    "start_vuln_version": "0",
+    "fixed_version": "115.10.1"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12428",
+    "description": "DoS vulnerability in Oracle Java and GraalVM",
+    "publish_date": "2022-01-18",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3210.7"
+  },
+  {
+    "vendor": "The Document Foundation",
+    "product": "LibreOffice",
+    "KLA_id": "KLA71352",
+    "description": "PE vulnerability in LibreOffice",
+    "publish_date": "2024-08-05",
+    "start_vuln_version": "24",
+    "fixed_version": "24.2.5.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA64752",
+    "description": "OSI vulnerability in Mozilla Thunderbird",
+    "publish_date": "2024-03-04",
+    "start_vuln_version": "0",
+    "fixed_version": "115.8.1"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome Enterprise",
+    "KLA_id": "KLA79209",
+    "description": "DoS vulnerabilities in Google Chrome",
+    "publish_date": "2025-01-22",
+    "start_vuln_version": "0",
+    "fixed_version": "132.0.6834.110"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA51620",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2023-08-02",
+    "start_vuln_version": "115",
+    "fixed_version": "115.1.0"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.45.1"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.39.4"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA11867",
+    "description": "Multiple vulnerabilities in Oracle Java SE",
+    "publish_date": "2020-07-14",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.2510.7"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome",
+    "KLA_id": "KLA79209",
+    "description": "DoS vulnerabilities in Google Chrome",
+    "publish_date": "2025-01-22",
+    "start_vuln_version": "0",
+    "fixed_version": "132.0.6834.110"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA71453",
+    "description": "ACE vulnerability in PostgreSQL",
+    "publish_date": "2024-08-08",
+    "start_vuln_version": "0",
+    "fixed_version": "15.8.1"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA78283",
+    "description": "Multiple vulnerabilities in Apache Tomcat",
+    "publish_date": "2024-12-09",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.98"
+  },
+  {
+    "vendor": "Google",
+    "product": "Google Chrome",
+    "KLA_id": "KLA78988",
+    "description": "Multiple vulnerabilities in Google Chrome",
+    "publish_date": "2025-01-14",
+    "start_vuln_version": "0",
+    "fixed_version": "132.0.6834.83"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "KLA_id": "KLA74037",
+    "description": "Multiple vulnerabilities in Oracle VirtualBox",
+    "publish_date": "2024-10-15",
+    "start_vuln_version": "7",
+    "fixed_version": "7.1.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA78030",
+    "description": "OSI vulnerability in Mozilla Thunderbird",
+    "publish_date": "2024-12-10",
+    "start_vuln_version": "128",
+    "fixed_version": "128.5.2"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "KLA_id": "KLA68205",
+    "description": "PE vulnerability in Foxit Reader",
+    "publish_date": "2024-05-24",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.2.2.25170"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA62191",
+    "description": "ACE vulnerability in Apache Tomcat",
+    "publish_date": "2023-11-15",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.83"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA20183",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2022-04-12",
+    "start_vuln_version": "2",
+    "fixed_version": "2.35.2"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA71401",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-08-06",
+    "start_vuln_version": "128",
+    "fixed_version": "128.1.0"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "KLA_id": "KLA73942",
+    "description": "DoS vulnerability in Wireshark",
+    "publish_date": "2024-10-09",
+    "start_vuln_version": "0",
+    "fixed_version": "4.4.1"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA19261",
+    "description": "XSS vulnerability in Apache Tomcat",
+    "publish_date": "2022-07-20",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.65"
+  },
+  {
+    "vendor": "Wireshark Foundation",
+    "product": "Wireshark",
+    "KLA_id": "KLA67586",
+    "description": "Multiple vulnerabilities in Wireshark",
+    "publish_date": "2024-05-15",
+    "start_vuln_version": "0",
+    "fixed_version": "3.6.23"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.44.1"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA12426",
+    "description": "Multiple vulnerabilities in Oracle Java and GraalVM",
+    "publish_date": "2022-01-18",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.3210.7"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA48634",
+    "description": "OSI vulnerability in Apache Tomcat",
+    "publish_date": "2023-02-23",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.72"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "KLA_id": "KLA74036",
+    "description": "Multiple vulnerabilities in Oracle VirtualBox",
+    "publish_date": "2024-10-15",
+    "start_vuln_version": "7",
+    "fixed_version": "7.0.22"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA12105",
+    "description": "ACE vulnerability in Apache Tomcat",
+    "publish_date": "2021-02-05",
+    "start_vuln_version": "7",
+    "fixed_version": "7.0.108"
+  },
+  {
+    "vendor": "Apple",
+    "product": "Apple iTunes",
+    "KLA_id": "KLA65186",
+    "description": "PE vulnerability in Apple iTunes",
+    "publish_date": "2023-12-14",
+    "start_vuln_version": "0",
+    "fixed_version": "12.13.1.3"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA49273",
+    "description": "DoS vulnerability in Apache Tomcat",
+    "publish_date": "2023-04-18",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.74"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader Enterprise",
+    "KLA_id": "KLA78282",
+    "description": "Multiple vulnerabilities in Foxit Reader",
+    "publish_date": "2024-12-17",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.4.0.27683"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA77143",
+    "description": "Multiple vulnerabilities in PostgreSQL",
+    "publish_date": "2024-11-14",
+    "start_vuln_version": "0",
+    "fixed_version": "13.17.1"
+  },
+  {
+    "vendor": "Foxit Corporation",
+    "product": "Foxit Reader",
+    "KLA_id": "KLA73578",
+    "description": "Multiple vulnerabilities in Foxit Reader",
+    "publish_date": "2024-09-26",
+    "start_vuln_version": "0",
+    "fixed_version": "2024.2.3.25184"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA74631",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-10-29",
+    "start_vuln_version": "128",
+    "fixed_version": "128.4"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA70478",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-07-11",
+    "start_vuln_version": "128",
+    "fixed_version": "128.0"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA79208",
+    "description": "Multiple vulnerabilities in Oracle Java",
+    "publish_date": "2025-01-21",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.4410.7"
+  },
+  {
+    "vendor": "The Git Development Community",
+    "product": "Git for Windows",
+    "KLA_id": "KLA67449",
+    "description": "Multiple vulnerabilities in Git for Windows",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "2.40.2"
+  },
+  {
+    "vendor": "Adobe Systems",
+    "product": "Adobe Acrobat Reader DC Continuous",
+    "KLA_id": "KLA67474",
+    "description": "Multiple vulnerabilities in Adobe Acrobat and Adobe Acrobat Reader",
+    "publish_date": "2024-05-14",
+    "start_vuln_version": "0",
+    "fixed_version": "24.002.20759"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "KLA_id": "KLA65638",
+    "description": "Multiple vulnerabilities in Oracle VirtualBox",
+    "publish_date": "2024-04-16",
+    "start_vuln_version": "7",
+    "fixed_version": "7.0.16"
+  },
+  {
+    "vendor": "Mozilla Foundation",
+    "product": "Mozilla Thunderbird",
+    "KLA_id": "KLA65226",
+    "description": "Multiple vulnerabilities in Mozilla Thunderbird",
+    "publish_date": "2024-03-19",
+    "start_vuln_version": "0",
+    "fixed_version": "115.9.0"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle Java JRE 1.8.x",
+    "KLA_id": "KLA63108",
+    "description": "Multiple vulnerabilities in Oracle Java SE and GraalVM",
+    "publish_date": "2024-01-16",
+    "start_vuln_version": "8",
+    "fixed_version": "8.0.4010.10"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "KLA_id": "KLA70468",
+    "description": "DoS vulnerabilities in Oracle VirtualBox",
+    "publish_date": "2024-06-18",
+    "start_vuln_version": "7",
+    "fixed_version": "7.0.20"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "KLA_id": "KLA79193",
+    "description": "PE vulnerabilities in Oracle VirtualBox",
+    "publish_date": "2025-01-21",
+    "start_vuln_version": "7.0",
+    "fixed_version": "7.0.24"
+  },
+  {
+    "vendor": "Oracle Corporation",
+    "product": "Oracle VirtualBox",
+    "KLA_id": "KLA79193",
+    "description": "PE vulnerabilities in Oracle VirtualBox",
+    "publish_date": "2025-01-21",
+    "start_vuln_version": "7.1",
+    "fixed_version": "7.1.6"
+  },
+  {
+    "vendor": "Apache Software Foundation",
+    "product": "Apache Tomcat",
+    "KLA_id": "KLA77342",
+    "description": "XSS vulnerability in Apache Tomcat",
+    "publish_date": "2024-11-09",
+    "start_vuln_version": "9",
+    "fixed_version": "9.0.97"
+  },
+  {
+    "vendor": "Postgresql",
+    "product": "PostgreSQL",
+    "KLA_id": "KLA77143",
+    "description": "Multiple vulnerabilities in PostgreSQL",
+    "publish_date": "2024-11-14",
+    "start_vuln_version": "0",
+    "fixed_version": "17.1.1"
+  }
+]
